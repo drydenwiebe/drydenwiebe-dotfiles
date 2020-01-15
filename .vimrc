@@ -19,17 +19,6 @@ set relativenumber
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                   THEMES                                   "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-filetype plugin indent on
-set tabstop=4
-set shiftwidth=4
-set expandtab
-set guioptions-=m " turn off menu bar
-set guioptions-=T " turn off toolbar
-set guioptions-=L " turn off menu bar
-set backspace=indent,eol,start
-set laststatus=2  " always display the status line
-set background=dark
-colorscheme PaperColor
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 FORMATTERS                                 "
